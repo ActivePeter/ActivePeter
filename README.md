@@ -1,16 +1,33 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**ActivePeter/ActivePeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ### me: A student and programmer, from China, who loves playing minecraft, interested in technology.
 
-Here are some ideas to get you started:
+- ### 🔭 I’m currently working on Postgraduate entrance examination
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### 🌱 I’m currently learning c++ & rust & graphics
+
+- ### 📫 How to reach me:
+
+  - **blog**   [hanbaoaaa.xyz](https://hanbaoaaa.xyz)
+  - **qq** 1020401660
+
+- ### ⚡ MainProjects: 
+
+  - #### cs
+
+    - [ActivePeter/paecs: simple implementation of ECS game model (github.com)](https://github.com/ActivePeter/paecs)
+    - [ActivePeter/MarkdownEverywhere: A web project to auto sync notes in git repositories, then present them by vue. (github.com)](https://github.com/ActivePeter/MarkdownEverywhere)
+    - [ActivePeter/VoxelFrame: make my own minecraft！ (github.com)](https://github.com/ActivePeter/VoxelFrame)
+    - [ActivePeter/labTechShareBBS-cuitech: trying to build a public BBs For Labs (github.com)](https://github.com/ActivePeter/labTechShareBBS-cuitech)
+
+  - #### ee
+
+    - [ActivePeter/paMcuLib: My commonLib for MCUs (github.com)](https://github.com/ActivePeter/paMcuLib)
+    - [ActivePeter/2020_TI_competion_question_A: 2020电赛A题代码整理 (github.com)](https://github.com/ActivePeter/2020_TI_competion_question_A)
+
+- ### 🎓 StudyProjects:
+
+  - [ActivePeter/GAMES101_study: 这个项目用来记录我学习GAMES101系列课程的作业 并汇总资料。 This project is used to record my homework of games101 series courses and Summary information and resources. (github.com)](https://github.com/ActivePeter/GAMES101_study)
+
+  
+
