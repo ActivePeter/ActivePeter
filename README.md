@@ -2,9 +2,9 @@
 
 - ### me: A student and programmer, from China, who loves playing minecraft, interested in technology.
 
-- ### 🔭 I’m currently working on Postgraduate entrance examination
+- ### 🔭 I’m currently working on Postgraduate entrance examination and writing some personal projects. 
 
-- ### 🌱 I’m currently learning c++ & rust & graphics
+- ### 🌱 I’m currently learning c++ & graphics & opengl & openmp & rust 
 
 - ### 📫 How to reach me:
 
@@ -24,6 +24,7 @@
 
     - [ActivePeter/paMcuLib: My commonLib for MCUs (github.com)](https://github.com/ActivePeter/paMcuLib)
     - [ActivePeter/2020_TI_competion_question_A: 2020电赛A题代码整理 (github.com)](https://github.com/ActivePeter/2020_TI_competion_question_A)
+    - [ActivePeter/pa_RobotArm: robot arm project, based on pa_CommonLib, currently developing on stm32 h7 (github.com)](https://github.com/ActivePeter/pa_RobotArm)
 
 - ### 🎓 StudyProjects:
 
