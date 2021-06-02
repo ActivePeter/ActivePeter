@@ -13,6 +13,8 @@
 
 - ### ⚡ MainProjects: 
 
+  ![](https://github-readme-stats.vercel.app/api?username=ActivePeter)
+
   - [ActivePeter/paecs: simple implementation of ECS game model (github.com)](https://github.com/ActivePeter/paecs)
   - [ActivePeter/MarkdownEverywhere: A web project to auto sync notes in git repositories, then present them by vue. (github.com)](https://github.com/ActivePeter/MarkdownEverywhere)
   - [ActivePeter/VoxelFrame: make my own minecraft！ (github.com)](https://github.com/ActivePeter/VoxelFrame)
