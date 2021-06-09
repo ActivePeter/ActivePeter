@@ -31,6 +31,8 @@ Hi there 👋
 
   - [ActivePeter/pa_RobotArm: robot arm project, based on pa_CommonLib, currently developing on stm32 h7 (github.com)](https://github.com/ActivePeter/pa_RobotArm)
 
+    ![image-20210609143548620](https://hanbaoaaa.xyz/tuchuang/images/2021/06/09/image-20210609143548620.png)
+
   - [ActivePeter/pa-commonlib-helper: a vscode plugin for my pa_CommonLib (github.com)](https://github.com/ActivePeter/pa-commonlib-helper)
 
   - [ActivePeter/android_FaceDetect_EntranceGuard: 安卓人脸识别门禁，支持语言识别触发 (github.com)](https://github.com/ActivePeter/android_FaceDetect_EntranceGuard)
