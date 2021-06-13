@@ -41,7 +41,9 @@ Hi there 👋
 
     ![image-20210609143548620](https://hanbaoaaa.xyz/tuchuang/images/2021/06/09/image-20210609143548620.png)
 
-  - [ActivePeter/pa-commonlib-helper: a vscode plugin for my pa_CommonLib (github.com)](https://github.com/ActivePeter/pa-commonlib-helper)
+  - [ActivePeter/MacroDefineHelper-vscode: Iterate through the macro helper configuration file in the directory and generate a configuration tree. Then generate a series of macros in head files. 遍历目录中的宏助手配置文件并生成配置树，再根据配置树生成一系列宏 (github.com)](https://github.com/ActivePeter/MacroDefineHelper-vscode)
+
+  - [ActivePeter/SubmoduleHelper-vscode: I'm going to write a vscode extension available to choose needed submodules and auto load them, just like some package manager. (github.com)](https://github.com/ActivePeter/SubmoduleHelper-vscode)
 
   - [ActivePeter/android_FaceDetect_EntranceGuard: 安卓人脸识别门禁，支持语言识别触发 (github.com)](https://github.com/ActivePeter/android_FaceDetect_EntranceGuard)
 
