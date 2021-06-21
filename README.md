@@ -37,7 +37,7 @@ Hi there 👋
 
     [![image-20210609144836035](https://hanbaoaaa.xyz/tuchuang/images/2021/06/09/image-20210609144836035.png)](https://www.bilibili.com/video/BV1uA411j7Ti)
 
-  - [ActivePeter/pa_RobotArm: robot arm project, based on pa_CommonLib, currently developing on stm32 h7 (github.com)](https://github.com/ActivePeter/pa_RobotArm)
+  - [ActivePeter/paRobotArm: robot arm project with esp32 based on paMcuLib, light and easy to adapt to new platforms (github.com)](https://github.com/ActivePeter/paRobotArm)
 
     ![image-20210609143548620](https://hanbaoaaa.xyz/tuchuang/images/2021/06/09/image-20210609143548620.png)
 
