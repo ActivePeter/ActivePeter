@@ -35,6 +35,8 @@ Hi there 👋
 
   - [ActivePeter/paMcuLib: My commonLib for MCUs (github.com)](https://github.com/ActivePeter/paMcuLib)
 
+    ![pamculib](https://hanbaoaaa.xyz/tuchuang/images/2021/06/25/pamculib.png)
+
   - [ActivePeter/2020_TI_competion_question_A: 2020电赛A题代码整理 (github.com)](https://github.com/ActivePeter/2020_TI_competion_question_A)
 
     [![image-20210609144836035](https://hanbaoaaa.xyz/tuchuang/images/2021/06/09/image-20210609144836035.png)](https://www.bilibili.com/video/BV1uA411j7Ti)
