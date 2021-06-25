@@ -17,6 +17,8 @@ Hi there 👋
 
   - [ActivePeter/paecs: simple implementation of ECS game model (github.com)](https://github.com/ActivePeter/paecs)
 
+    ![paecs](https://hanbaoaaa.xyz/tuchuang/images/2021/06/25/paecs.png)
+
   - [ActivePeter/MarkdownEverywhere: A web project to auto sync notes in git repositories, then present them by vue. (github.com)](https://github.com/ActivePeter/MarkdownEverywhere)
 
     My blog is using this.
