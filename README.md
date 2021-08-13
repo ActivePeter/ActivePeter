@@ -4,7 +4,7 @@ Hi there 👋
 
 - ### 🔭 I’m currently working on Postgraduate entrance examination and writing some personal projects. 
 
-- ### 🌱 I’m currently learning c++.  
+- ### 🌱 I’m currently learning c++, ue4, distributed system and graphic.  
 
 - ### 📫 How to reach me:
 
