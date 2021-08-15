@@ -15,37 +15,24 @@ Hi there 👋
 
   ![](https://github-readme-stats.vercel.app/api?username=ActivePeter)
 
-  - [ActivePeter/paecs: simple implementation of ECS game model (github.com)](https://github.com/ActivePeter/paecs)
+  - [ActivePeter/paecs](https://github.com/ActivePeter/paecs)
 
-    ![paecs](https://hanbaoaaa.xyz/tuchuang/images/2021/06/25/paecs.png)
+    simple implementation of ECS game model (github.com)
 
   - [ActivePeter/MarkdownEverywhere: A web project to auto sync notes in git repositories, then present them by vue. (github.com)](https://github.com/ActivePeter/MarkdownEverywhere)
-
-    My blog is using this.
-
-    ![image-20210609145158404](https://hanbaoaaa.xyz/tuchuang/images/2021/06/09/image-20210609145158404.png)
 
   - [ActivePeter/VoxelFrame: make my own minecraft！ (github.com)](https://github.com/ActivePeter/VoxelFrame)
   
     [ActivePeter/VoxelFrame_UE4: currently developing with ue4](https://github.com/ActivePeter/VoxelFrame_UE4)
 
-    ![image-20210609143318642](https://hanbaoaaa.xyz/tuchuang/images/2021/06/09/image-20210609143318642.png)
-
   - [ActivePeter/labTechShareBBS-cuitech: trying to build a public BBs For Labs (github.com)](https://github.com/ActivePeter/labTechShareBBS-cuitech)
-
-    [![image-20210609144634301](https://hanbaoaaa.xyz/tuchuang/images/2021/06/09/image-20210609144634301.png)](http://cuit.echoiot.com/)
 
   - [ActivePeter/paMcuLib: My commonLib for MCUs (github.com)](https://github.com/ActivePeter/paMcuLib)
 
-    ![pamculib](https://hanbaoaaa.xyz/tuchuang/images/2021/06/25/pamculib.png)
-
   - [ActivePeter/2020_TI_competion_question_A: 2020电赛A题代码整理 (github.com)](https://github.com/ActivePeter/2020_TI_competion_question_A)
-
-    [![image-20210609144836035](https://hanbaoaaa.xyz/tuchuang/images/2021/06/09/image-20210609144836035.png)](https://www.bilibili.com/video/BV1uA411j7Ti)
 
   - [ActivePeter/paRobotArm: robot arm project with esp32 based on paMcuLib, light and easy to adapt to new platforms (github.com)](https://github.com/ActivePeter/paRobotArm)
 
-    ![image-20210609143548620](https://hanbaoaaa.xyz/tuchuang/images/2021/06/09/image-20210609143548620.png)
 
   - [ActivePeter/MacroDefineHelper-vscode: Iterate through the macro helper configuration file in the directory and generate a configuration tree. Then generate a series of macros in head files. 遍历目录中的宏助手配置文件并生成配置树，再根据配置树生成一系列宏 (github.com)](https://github.com/ActivePeter/MacroDefineHelper-vscode)
 
