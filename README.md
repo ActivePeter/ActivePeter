@@ -17,8 +17,6 @@
 
 - 考研结束了，对自己听没把握的。开始刷leetcode了。等成绩出来，分够就准备复试，不够就准备实习去了
 
-  ![](https://hanbaoaaa.xyz/tuchuang/images/2021/07/28/QQ20210728222408.gif)
-
 - 每天刷leetcode
 
 - 逐渐入门分布式 mit6.824
