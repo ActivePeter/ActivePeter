@@ -102,3 +102,5 @@
 - ### 🎓 StudyProjects:
 
   - [mit_6.824_learning](https://github.com/ActivePeter/mit_6.824_learning)
+  
+  - [learn_algorithms_with_cpp](https://github.com/ActivePeter/study_algorithms_with_cpp)
