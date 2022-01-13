@@ -6,23 +6,33 @@
 
 ## 焦虑时会看看我自己的信念
 
-- 探索这个宽广的世界
-- 放下完美主义
-- 行动起来
-- 选择后全力以赴
-- 大不了，从头再来
-- fear, then fight
-- 也许有很多想法，但是请一件一件完成
+- #### 信念
+
+  - 我要永远热爱我所热爱的
+
+- #### 方法论
+
+  - 探索这个宽广的世界
+  - 放下完美主义
+  - 行动起来
+  - 选择后全力以赴
+  - 大不了，从头再来
+  - fear, then fight
+  - 也许有很多想法，但是请一件一件完成
 
 ## 近段时间内计划
 
+- 最近脑内又蹦出个想去国外留学或者工作的想法(现在看来可能比较遥远)
+
 - 考研结束了，对自己听没把握的。开始刷leetcode了。等成绩出来，分够就准备复试，不够就准备实习去了
+
+  ![](https://hanbaoaaa.xyz/tuchuang/images/2021/07/28/QQ20210728222408.gif)
 
 - 每天刷leetcode
 
 - 逐渐入门分布式 mit6.824
 
-- 慢慢把mc糊出来（mc项目  客户端采用ue4 后端使用rust(tokio
+- 慢慢把mc糊出来（mc项目  客户端采用opengl或ue4（目前考虑换ue4，后端使用rust（后端还没写
 
 ## 技术栈
 
@@ -45,8 +55,11 @@
 ## 联系方式
 
 - 欢迎来扩列qq 1020401660
+
 - **github**链接：[https://github.com/ActivePeter](https://github.com/ActivePeter)
+
 - 同时也是个佛系**B站up**   bilibili账号是 汉堡aaa  [链接][1]
+
 
 [1]: https://space.bilibili.com/268164490
 
@@ -103,5 +116,4 @@
 - ### 🎓 StudyProjects:
 
   - [mit_6.824_learning](https://github.com/ActivePeter/mit_6.824_learning)
-  
   - [learn_algorithms_with_cpp](https://github.com/ActivePeter/study_algorithms_with_cpp)
