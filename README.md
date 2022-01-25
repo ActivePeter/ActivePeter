@@ -4,6 +4,26 @@
 
 **[关于我在写的mc](https://github.com/ActivePeter/VoxelFrame_UE4)**
 
+## 联系方式
+
+- 欢迎来扩列qq 1020401660
+
+- **github**链接：[https://github.com/ActivePeter](https://github.com/ActivePeter)
+
+- 同时也是个佛系**B站up**   bilibili账号是 汉堡aaa  [链接][1]
+
+## 技术栈
+
+- 技术兴趣挺广的，都浅浅的接触过（完成过一些个人小项目
+- **期望主攻方向**：准备往基础架构做（c++ rust go
+- ue4/unity/opengl/图形学 正在编写类似mc的体素游戏
+- 嵌入式（本科阶段主要接触，因为专业相关性比较大） freertos，esp32，stm32... 撸过个驱动通用库
+- vue，nuxt 前端；
+- android app（c++、java）移动端；
+- golang (桌面程序，后端)
+- python杂七杂八的工具；
+- vscode插件开发
+
 ## 焦虑时会看看我自己的信念
 
 - #### 信念
@@ -34,32 +54,11 @@
 
 - 慢慢把mc糊出来（mc项目  客户端采用opengl或ue4（目前考虑换ue4，后端使用rust（后端还没写
 
-## 技术栈
-
-- 技术兴趣挺广的，都浅浅的接触过（完成过一些个人小项目
-- **期望主攻方向**：准备往分布式，基础架构做（c++ go rust
-- ue4/unity/opengl/图形学 正在编写类似mc的体素游戏
-- 嵌入式（本科阶段主要接触，因为专业相关性比较大） freertos，esp32，stm32... 撸过个驱动通用库
-- vue，nuxt 前端；
-- android app（c++、java）移动端；
-- golang (桌面程序，后端)
-- python杂七杂八的工具；
-- vscode插件开发
-
 ## 其他方面的兴趣
 
 - deemo音游
 - 画画
 - 研究学习本身（效率，方法，思维
-
-## 联系方式
-
-- 欢迎来扩列qq 1020401660
-
-- **github**链接：[https://github.com/ActivePeter](https://github.com/ActivePeter)
-
-- 同时也是个佛系**B站up**   bilibili账号是 汉堡aaa  [链接][1]
-
 
 [1]: https://space.bilibili.com/268164490
 
