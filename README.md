@@ -6,11 +6,11 @@
 
 ## 联系方式
 
-- 欢迎来扩列qq 1020401660
+- 欢迎来扩列 **qq** 1020401660
 
-- **github**链接：[https://github.com/ActivePeter](https://github.com/ActivePeter)
+- **github** 链接：[https://github.com/ActivePeter](https://github.com/ActivePeter)
 
-- 同时也是个佛系**B站up**   bilibili账号是 汉堡aaa  [链接][1]
+- 同时也是个佛系**B站up**   bilibili账号是 **pa汉堡**  [链接][1]
 
 ## 技术栈
 
@@ -69,25 +69,25 @@
 
 - [MarkdownEverywhere](https://github.com/ActivePeter/MarkdownEverywhere)
 
-  : A web project to auto sync notes in git repositories, then present them by vue.
+  A web project to auto sync notes in git repositories, then present them by vue.
 
 - [VoxelFrame](https://github.com/ActivePeter/VoxelFrame)
 
   [VoxelFrame_UE4: currently developing with ue4](https://github.com/ActivePeter/VoxelFrame_UE4)
 
-  : make my own minecraft！
+  make my own minecraft！
 
 - [labTechShareBBS-cuitech](https://github.com/ActivePeter/labTechShareBBS-cuitech)
 
-  : trying to build a public BBs For Labs
+  trying to build a public BBs For Labs
 
 - [paMcuLib](https://github.com/ActivePeter/paMcuLib)
 
-  : My commonLib for MCUs 
+  My commonLib for MCUs 
 
 - [2020_TI_competion_question_A](https://github.com/ActivePeter/2020_TI_competion_question_A)
 
-  : 2020电赛A题代码整理
+  2020电赛A题代码整理
 
 - [paRobotArm:](https://github.com/ActivePeter/paRobotArm)
 
@@ -109,5 +109,6 @@
 
 - ### 🎓 StudyProjects:
 
-  - [mit_6.824_learning](https://github.com/ActivePeter/mit_6.824_learning)
-  - [learn_algorithms_with_cpp](https://github.com/ActivePeter/study_algorithms_with_cpp)
+  - [分布式课程 mit 6.824](https://github.com/ActivePeter/mit_6.824_learning)
+  - [基础算法练习](https://github.com/ActivePeter/study_algorithms_with_cpp)
+  - [操作系统课程 mit 6.s081](https://github.com/ActivePeter/learn_mit_s6.081)
