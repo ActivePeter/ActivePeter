@@ -8,39 +8,16 @@
 
 ## Technology Stack
 
-- 技术兴趣挺广的，都浅浅的接触过（完成过一些个人小项目
-- **期望主攻方向**：准备往基础架构做（c++ rust go
-- ue4/unity/opengl/图形学 正在编写类似mc的体素游戏
-- 嵌入式（本科阶段主要接触，因为专业相关性比较大） freertos，esp32，stm32... 撸过个驱动通用库
-- vue，nuxt 前端；
-- android app（c++、java）移动端；
-- golang (桌面程序，后端)
-- python杂七杂八的工具；
-- vscode插件开发
-
-# Soliloquy
-
-- 我要永远热爱我所热爱的
-- 探索这个宽广的世界
-- 放下完美主义
-- 行动起来  
-- 选择后全力以赴
-- 大不了，从头再来
-- fear, then fight
-- 也许有很多想法，但是请一件一件完成
+- **languages**：c/cpp, rust, go, c#, java, js, ts, py
+- **framework/lib**: unreal engine, tokio, protobuf, libhv, vue, electron
+- **ee**: esp32, k210, stm32
 
 ## Recent Todos
 
-- 上岸了嘿嘿，未来可期
-
-  ![](https://hanbaoaaa.xyz/tuchuang/images/2021/07/28/QQ20210728222408.gif)
-
 - 每天刷leetcode
-
-- 逐渐入门操作系统 mit6.s081
-
-- 逐渐入门分布式 mit6.824
-
+- 完成操作系统lab mit6.s081
+- 完成分布式lab mit6.824
+- 完成pingcap的lab5
 - 慢慢把mc糊出来（mc项目 ue4，后端使用rust
 
 ## Other Interests
@@ -48,7 +25,7 @@
 - deemo音游
 - 画画
 - 研究学习本身（效率，方法，思维
-- 玩mc
+- 玩mc,写mc
 
 [1]: https://space.bilibili.com/268164490
 
