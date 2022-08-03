@@ -80,6 +80,8 @@ Interested about game development, game engine, ee.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ActivePeter)
 
+<figure><embed src="https://wakatime.com/share/@be5a5457-47be-4fd1-8f04-df2f86d0510c/bbf6fb85-933f-474c-8c86-6c2d02667fb5.svg"></embed></figure>
+
 ## Recent Todos
 
 - 每天刷leetcode
