@@ -18,6 +18,10 @@ Interested about game development, game engine, ee.
 
 ## Little Projects
 
+- **[web-react-rust]** [LearnTechTogether](https://github.com/ActivePeter/LearnTechTogether)
+
+  community to learn tech together
+
 - **[rustkvdb-study]** [pakv_talentplan](https://github.com/ActivePeter/pakv_talentplan)
 
   A rust kvdb implementation lab. 一个rust kvdb实现
