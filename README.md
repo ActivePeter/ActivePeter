@@ -12,7 +12,7 @@
 - **framework/lib**: tokio，unreal engine, protobuf, libhv, vue, electron, freertos
 - **ee**: esp32, k210, stm32
 
-Focus on performance, storage, distribution system, database, system.
+Focusing on performance, storage, distribution system, database, system.
 
 Interested about game development, game engine, ee.
 
