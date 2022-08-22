@@ -9,7 +9,7 @@
 ## Technology Stack
 
 - **languages**：**c/cpp, rust**, go, c#, java, js, ts, py
-- **framework/lib**: tokio，unreal engine, protobuf, libhv, vue, electron, freertos
+- **framework/lib**: axum, tokio, unreal engine, postgre, protobuf, libhv, vue, electron, freertos
 - **ee**: esp32, k210, stm32
 
 Focusing on performance, storage, distribution system, database, system.
