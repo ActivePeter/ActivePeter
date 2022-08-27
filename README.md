@@ -1,9 +1,8 @@
-## Contacts
+## 我是汉堡（pa）！
 
-- 欢迎来扩列 **qq** 1020401660
-
-- **github** 链接：[https://github.com/ActivePeter](https://github.com/ActivePeter)
-
+- [let's learn tech 社区](/LearnTech)
+- **qq** 1020401660
+- **github** [https://github.com/ActivePeter](https://github.com/ActivePeter)
 - 同时也是个佛系**B站up**   bilibili账号是 **pa汉堡**  [链接][1]
 
 ## Technology Stack
@@ -12,7 +11,7 @@
 - **framework/lib**: axum, tokio, unreal engine, postgre, protobuf, libhv, vue, electron, freertos
 - **ee**: esp32, k210, stm32
 
-Focusing on performance, storage, distribution system, database, system.
+Focus on performance, storage, distribution system, database, system.
 
 Interested about game development, game engine, ee.
 
@@ -22,9 +21,15 @@ Interested about game development, game engine, ee.
 
   community to learn tech together
 
+- **[db-study]** [learn_cmu15_445](https://github.com/ActivePeter/learn_cmu15_445)
+
+  cmu 15 445数据库课程 lab
+
 - **[rustkvdb-study]** [pakv_talentplan](https://github.com/ActivePeter/pakv_talentplan)
 
-  A rust kvdb implementation lab. 一个rust kvdb实现
+  A rust kvdb implementation lab. 
+
+  一个rust kvdb实现
 
 - **[distribution-study]** [mit 6.824](https://github.com/ActivePeter/mit_6.824_learning)
 
@@ -36,29 +41,41 @@ Interested about game development, game engine, ee.
 
 - **[web-vue-election]** [paNote](https://github.com/ActivePeter/paNote)
 
-  Mesh structure note software, supporting Anki regular review. 网状结构笔记软件，同时支持anki定期复习
+  Mesh structure note software, supporting Anki regular review.
+
+  网状结构笔记软件，同时支持anki定期复习
+
+  ![image.png](https://s2.loli.net/2022/08/27/nlwMxopbr3IgRsz.png)
 
 - **[game-cpp]** [paecs](https://github.com/ActivePeter/paecs)
 
-  Simple implementation of ECS game model. 简易的ecs游戏开发模式实现
+  Simple implementation of ECS game model. 
+
+  简易的ecs游戏开发模式实现
 
 - **[web-vue]** [MarkdownEverywhere](https://github.com/ActivePeter/MarkdownEverywhere)
 
-  A web project to auto sync notes in git repositories, then present them by vue. markdown 知识库，作为我的个人博客
+  A web project to auto sync notes in git repositories, then present them by vue. markdown 
+
+  知识库，作为我的个人博客
+
+  ![image.png](https://s2.loli.net/2022/08/27/zh8xbWrOnuaZC5k.png)
 
 - **[game-ue|opengl|unity]** [VoxelFrame](https://github.com/ActivePeter/VoxelFrame)
 
   [VoxelFrame_UE4: currently developing with ue4](https://github.com/ActivePeter/VoxelFrame_UE4)
 
-  make my own minecraft！做我自己的minecraft！
+  make my own minecraft！
 
-- **[web-vue]** [labTechShareBBS-cuitech](https://github.com/ActivePeter/labTechShareBBS-cuitech)
+  做我自己的minecraft！
 
-  trying to build a public BBs For Labs. 搭建校园技术交流社区（弃坑）
+  ![image.png](https://s2.loli.net/2022/08/27/BJUN5WXP8Ezr3Qp.png)
 
 - **[emmbed-mcu_hal]** [paMcuLib](https://github.com/ActivePeter/paMcuLib)
 
-  My commonLib for MCUs. MCU 通用库（转行用不到）
+  My commonLib for MCUs. 
+
+  MCU 通用库（转行用不到）
 
 - **[emmbed-esp32]** [2020_TI_competion_question_A](https://github.com/ActivePeter/2020_TI_competion_question_A)
 
@@ -66,15 +83,23 @@ Interested about game development, game engine, ee.
 
 - **[emmbed-esp32]** [paRobotArm:](https://github.com/ActivePeter/paRobotArm)
 
-  robot arm project with esp32 based on paMcuLib, light and easy to adapt to new platforms. 绘图机械臂
+  robot arm project with esp32 based on paMcuLib, light and easy to adapt to new platforms. 
+
+  绘图机械臂
+
+  ![image.png](https://s2.loli.net/2022/08/27/zHK19ROntTIBuib.png)
 
 - **[tool-vscode extension]** [MacroDefineHelper-vscode:](https://github.com/ActivePeter/MacroDefineHelper-vscode)
 
-  Iterate through the macro helper configuration file in the directory and generate a configuration tree. Then generate a series of macros in head files. 遍历目录中的宏助手配置文件并生成配置树，再根据配置树生成一系列宏 
+  Iterate through the macro helper configuration file in the directory and generate a configuration tree. Then generate a series of macros in head files. 
+
+  遍历目录中的宏助手配置文件并生成配置树，再根据配置树生成一系列宏 
 
 - **[tool-vscode extension]** [SubmoduleHelper-vscode:](https://github.com/ActivePeter/SubmoduleHelper-vscode)
 
-  A vscode extension available to choose needed submodules and auto load them, just like some package manager. 子模块管理器，避免了直接操作git时子模块缓存残留问题，适合嵌入式项目插拔模块
+  A vscode extension available to choose needed submodules and auto load them, just like some package manager. 
+
+  子模块管理器，避免了直接操作git时子模块缓存残留问题，适合嵌入式项目插拔模块
 
 - **[android]** [android_FaceDetect_EntranceGuard:](https://github.com/ActivePeter/android_FaceDetect_EntranceGuard)
 
@@ -83,16 +108,6 @@ Interested about game development, game engine, ee.
 - **[study]** [基础算法练习](https://github.com/ActivePeter/study_algorithms_with_cpp)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ActivePeter)
-
-<figure><embed src="https://wakatime.com/share/@be5a5457-47be-4fd1-8f04-df2f86d0510c/bbf6fb85-933f-474c-8c86-6c2d02667fb5.svg"></embed></figure>
-
-## Recent Todos
-
-- 每天刷leetcode
-- 完成操作系统lab mit6.s081
-- 完成分布式lab mit6.824
-- 完成pingcap的lab5
-- 慢慢把mc糊出来（mc项目 ue4，后端使用rust
 
 ## Other Interests
 
