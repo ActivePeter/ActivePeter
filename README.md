@@ -11,7 +11,7 @@
 - **framework/lib**: axum, tokio, unreal engine, postgre, protobuf, libhv, vue, electron, freertos
 - **ee**: esp32, k210, stm32
 
-Interested about performance, storage, distribution system, database, system, game development, game engine, ee.
+Interested about infrastructure software, system, database, distribution system, game development, game engine, ee.
 
 ## Little Projects
 
