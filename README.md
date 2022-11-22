@@ -9,9 +9,7 @@
 
 ## Technology Stack
 
-- **languages**：**c/cpp, rust**, go, c#, java, js, ts, py
-- **framework/lib**: axum, tokio, unreal engine, postgre, protobuf, libhv, vue, electron, freertos
-- **ee**: esp32, k210, stm32
+- **languages**：**c/cpp, rust**, go, ts
 
 Interested about infrastructure software, system, database, distribution system, game development, game engine, ee.
 
