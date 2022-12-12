@@ -1,6 +1,5 @@
 ## 我是汉堡（pa）！
 
-- [let's learn tech 社区](https://hanbaoaaa.xyz/LearnTech/)
 - **qq** 1020401660
 - **github** [https://github.com/ActivePeter](https://github.com/ActivePeter)
 - 同时也是个佛系**B站up**   bilibili账号是 **pa汉堡**  [链接][1]
