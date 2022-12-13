@@ -14,10 +14,6 @@ Interested about infrastructure software, system, database, distribution system,
 
 ## Little Projects
 
-- **[web-react-rust]** [LearnTechTogether](https://github.com/ActivePeter/LearnTechTogether)
-
-  community to learn tech together
-
 - **[db-study]** [learn_cmu15_445](https://github.com/ActivePeter/learn_cmu15_445)
 
   cmu 15 445数据库课程 lab
