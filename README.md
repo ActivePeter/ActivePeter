@@ -11,12 +11,6 @@
 - **languages**：**c/cpp, rust**, go, ts
 
 Interested about infrastructure software, system, database, distribution system, game development, game engine, ee.
-
-## Competitions
-
-- 2022 oceanbase数据库大赛
-
-- 2022 tidb hackathon
   
 ## Little Projects
 
