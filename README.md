@@ -10,7 +10,7 @@
 
 - **languages**：**c/cpp, rust**, go, ts
 
-Interested about infrastructure software, system, database, distribution system, game development, game engine, ee.
+- Interested about infrastructure software, system, database, distribution system, game development, game engine, ee.
   
 ## Little Projects
 
