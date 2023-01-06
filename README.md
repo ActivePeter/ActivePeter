@@ -3,8 +3,8 @@
 - **qq** 1020401660
 - **github** [https://github.com/ActivePeter](https://github.com/ActivePeter)
 - 同时也是个佛系**B站up**   bilibili账号是 [**pa汉堡**][1]
-- [pa_code_playground 记录各种语言的代码实验](https://github.com/ActivePeter/pa_code_playground)
-- [paTools 写代码时的一些工具脚本](https://github.com/ActivePeter/paTools)
+- [记录各种语言的代码实验](https://github.com/ActivePeter/pa_code_playground)
+- [整理一些写代码时的一些工具代码](https://github.com/ActivePeter/paTools)
 
 ## Technology Stack
 
