@@ -112,9 +112,7 @@
 
 ## Other Interests
 
-- deemo音游
 - 画画
-- 研究学习本身（效率，方法，思维
 - 玩mc,写mc
 
 [1]: https://space.bilibili.com/268164490
