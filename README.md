@@ -14,9 +14,13 @@
   
 ## Little Projects
 
+- **[rust-competition]** [rust_concurr_skiplist]
+
+  rust hackthon 并发kv数据结构，并发跳表
+
 - **[cpp-frame]** [pa_cpp_runtime](https://github.com/ActivePeter/pa_cpp_runtime)
 
-  一个cpp runtime，m:n协程实现，减少线程切换开销
+  （未完成）一个cpp runtime，m:n协程实现，减少线程切换开销
 
 - **[db-study]** [learn_cmu15_445](https://github.com/ActivePeter/learn_cmu15_445)
 
