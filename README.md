@@ -14,9 +14,9 @@
   
 ## Little Projects
 
-- **[rust-competition]** [rust_concurr_skiplist]
+- **[rust-competition]** [rust_concurr_skiplist]()
 
-  rust hackthon 并发kv数据结构，并发跳表
+  rust hackthon 达坦科技并发kv赛道。growonly，lockfree 并发skiplist实现
 
 - **[cpp-frame]** [pa_cpp_runtime](https://github.com/ActivePeter/pa_cpp_runtime)
 
