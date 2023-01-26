@@ -5,6 +5,8 @@
 - 同时也是个佛系**B站up**   bilibili账号是 [**pa汉堡**][1]
 - [记录各种语言的代码实验](https://github.com/ActivePeter/pa_code_playground)
 - [整理一些写代码时的一些工具代码](https://github.com/ActivePeter/paTools)
+- Donghua university CS graduate student
+- Internship in Datenlord
 
 ## Technology Stack
 
