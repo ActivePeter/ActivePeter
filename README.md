@@ -6,7 +6,7 @@
 - [记录各种语言的代码实验](https://github.com/ActivePeter/pa_code_playground)
 - [整理一些写代码时的一些工具代码](https://github.com/ActivePeter/paTools)
 - Donghua university CS graduate student
-- Internship in Datenlord
+- Internship in [Datenlord](https://github.com/datenlord)
 
 ## Technology Stack
 
