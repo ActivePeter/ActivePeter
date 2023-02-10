@@ -14,6 +14,7 @@
 
 - Interested about infrastructure software, system, database, distribution system, game development, game engine, ee.
   
+![](https://wakatime.com/share/@be5a5457-47be-4fd1-8f04-df2f86d0510c/900272d0-a757-4764-898d-c425ab4f7547.svg)  
 ## Little Projects
 
 - **[rust-competition]** [rust_concurr_skiplist](https://github.com/ActivePeter/rust_hackathon_kv) rust hackthon 达坦科技并发kv赛道。growonly，lockfree 并发skiplist实现
