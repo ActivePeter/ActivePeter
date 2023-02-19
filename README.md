@@ -7,6 +7,7 @@
 - [整理一些写代码时的一些工具代码](https://github.com/ActivePeter/paTools)
 - Donghua university CS graduate student
 - Internship in [Datenlord](https://github.com/datenlord)
+- 自建小社区 [https://hanbaoaaa.xyz/LearnTech/](https://hanbaoaaa.xyz/LearnTech/)
 
 ## Technology Stack
 
