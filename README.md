@@ -1,21 +1,24 @@
 ## 我是汉堡（pa）！
 
+- Donghua university CS graduate student
+
+- Internship in [Datenlord](https://github.com/datenlord)
+
+- **languages**：**c/cpp, rust**, go, ts
+
+- Interested about infrastructure software, system, database, distribution system, game development, game engine, ee.
+
+## Some contacts & links
 - **qq** 1020401660
 - **github** [https://github.com/ActivePeter](https://github.com/ActivePeter)
 - **bilibili** [**pa汉堡**][1]
 - [Record some experimental code](https://github.com/ActivePeter/pa_code_playground)
 - [Some utils like scripts for different scene](https://github.com/ActivePeter/paTools)
-- Donghua university CS graduate student
-- Internship in [Datenlord](https://github.com/datenlord)
+
 - Community to talk and ask about tech [https://hanbaoaaa.xyz/LearnTech/](https://hanbaoaaa.xyz/LearnTech/)
 
-## Technology Stack
-
-- **languages**：**c/cpp, rust**, go, ts
-
-- Interested about infrastructure software, system, database, distribution system, game development, game engine, ee.
-  
 ![](https://wakatime.com/share/@be5a5457-47be-4fd1-8f04-df2f86d0510c/900272d0-a757-4764-898d-c425ab4f7547.svg)  
+
 ## Little Projects
 
 - **[rust-competition]** [rust_concurr_skiplist](https://github.com/ActivePeter/rust_hackathon_kv) rust hackthon 达坦科技并发kv赛道。growonly，lockfree 并发skiplist实现
