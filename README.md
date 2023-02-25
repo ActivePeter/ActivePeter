@@ -2,12 +2,12 @@
 
 - **qq** 1020401660
 - **github** [https://github.com/ActivePeter](https://github.com/ActivePeter)
-- 同时也是个佛系**B站up**   bilibili账号是 [**pa汉堡**][1]
-- [记录各种语言的代码实验](https://github.com/ActivePeter/pa_code_playground)
-- [整理一些写代码时的一些工具代码](https://github.com/ActivePeter/paTools)
+- **bilibili** [**pa汉堡**][1]
+- [Record some experimental code](https://github.com/ActivePeter/pa_code_playground)
+- [Some utils like scripts for different scene](https://github.com/ActivePeter/paTools)
 - Donghua university CS graduate student
 - Internship in [Datenlord](https://github.com/datenlord)
-- 自建小社区 [https://hanbaoaaa.xyz/LearnTech/](https://hanbaoaaa.xyz/LearnTech/)
+- Community to talk and ask about tech [https://hanbaoaaa.xyz/LearnTech/](https://hanbaoaaa.xyz/LearnTech/)
 
 ## Technology Stack
 
