@@ -2,7 +2,7 @@
 
 - Donghua university CS graduate student
 
-- Internship in [Datenlord](https://github.com/datenlord)
+- Internship in [Datenlord](https://github.com/datenlord),  working on datenlord project, a cloud-native distributed storage platform.
 
 - **languages**：**c/cpp, rust**, go, ts
 
