@@ -1,6 +1,6 @@
 ## 我是汉堡（pa）！
 
-- Donghua university CS graduate student
+- Donghua university CS graduate student, working on serverless related.
 
 - Internship in [Datenlord](https://github.com/datenlord),  working on datenlord project, a cloud-native distributed storage platform.
 
