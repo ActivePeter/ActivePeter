@@ -15,7 +15,7 @@
 - [Record some experimental code](https://github.com/ActivePeter/pa_code_playground)
 - [Some utils like scripts for different scene](https://github.com/ActivePeter/paTools)
 
-- Community to talk and ask about tech [https://hanbaoaaa.xyz/LearnTech/](https://hanbaoaaa.xyz/LearnTech/)
+- Community to talk and ask about tech [https://hanbaoaaa.xyz/LearnTech/](http://learntech.zone/)
 
 ![](https://wakatime.com/share/@be5a5457-47be-4fd1-8f04-df2f86d0510c/900272d0-a757-4764-898d-c425ab4f7547.svg)  
 
