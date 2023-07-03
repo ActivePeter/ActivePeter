@@ -1,8 +1,8 @@
 ## 我是汉堡（pa）！
 
-- Donghua university CS graduate student, working on serverless related, [knative](https://github.com/ActivePeter/knative_serving).
+- Donghua university CS graduate student, working on serverless related (scaler, scheduler, cache), [serverless_research, simulate & algorithms](https://github.com/ActivePeter/serverless_research).
 
-- Internship in [Datenlord](https://github.com/datenlord),  working on datenlord project, a cloud-native distributed storage platform.
+- Internship in [Datenlord](https://github.com/datenlord),  working on [datenlord project, a cloud-native distributed storage platform](https://github.com/datenlord/datenlord).
 
 - **languages**：**c/cpp, rust**, go, ts
 
