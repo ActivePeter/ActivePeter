@@ -2,7 +2,7 @@
 
 - Donghua university CS graduate student, working on serverless related (scaler, scheduler, cache), [serverless_research, simulate frame & algorithms](https://github.com/ActivePeter/serverless_research).
 
-- Internship in [Datenlord](https://github.com/datenlord),  working on [datenlord project, a cloud-native distributed file system](https://github.com/datenlord/datenlord).
+- Internships： [Datenlord, dist fs](https://github.com/datenlord)
 
 - **languages**：**c/cpp, rust**, go, ts
 
