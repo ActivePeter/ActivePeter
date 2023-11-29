@@ -6,36 +6,46 @@
 
 - **languages**：**c/cpp, rust**, go, ts
 
-- Interested about infrastructure software, system, database, distribution system, game development, game engine, ee.
-
 ## Some contacts & links
 - **qq** 1020401660
 - **github** [https://github.com/ActivePeter](https://github.com/ActivePeter)
 - **bilibili** [**pa汉堡**][1]
-- [Record some experimental code](https://github.com/ActivePeter/pa_code_playground)
-- [Some utils like scripts for different scene](https://github.com/ActivePeter/paTools)
-
-- [Community to talk and learn about tech](http://learntech.zone/)
 
 ![](https://wakatime.com/share/@be5a5457-47be-4fd1-8f04-df2f86d0510c/900272d0-a757-4764-898d-c425ab4f7547.svg)  
 
-## Little Projects
+## Infra - Distributed
 
-- **[rust-competition]** [rust_concurr_skiplist](https://github.com/ActivePeter/rust_hackathon_kv) rust hackthon 达坦科技并发kv赛道。growonly，lockfree 并发skiplist实现
+- **[wasm_serverless]**
+  
+- **[distribution-study]** [mit 6.824](https://github.com/ActivePeter/mit_6.824_learning) 分布式课程 
 
-- **[cpp-frame]** [pa_cpp_runtime](https://github.com/ActivePeter/pa_cpp_runtime)（未完成）一个cpp runtime，m:n协程实现，减少线程切换开销
+## Infra - Local
 
-- **[db-study]** [learn_cmu15_445](https://github.com/ActivePeter/learn_cmu15_445) cmu 15 445数据库课程 lab
+### DB
 
 - **[rustkvdb-study]** [pakv_talentplan](https://github.com/ActivePeter/pakv_talentplan) A rust kvdb implementation lab. 
 
-- **[distribution-study]** [mit 6.824](https://github.com/ActivePeter/mit_6.824_learning) 分布式课程 
+- **[db-study]** [learn_cmu15_445](https://github.com/ActivePeter/learn_cmu15_445) cmu 15 445数据库课程 lab
+  
+### Data structure
+
+- **[rust-competition]** [rust_concurr_skiplist](https://github.com/ActivePeter/rust_hackathon_kv) rust hackthon 达坦科技并发kv赛道。growonly，lockfree 并发skiplist实现
+
+### System
 
 - **[sys-study]** [mit 6.s081](https://github.com/ActivePeter/learn_mit_s6.081) 操作系统课程 
+
+## Tool
+
+- [Some utils like scripts for different scene](https://github.com/ActivePeter/paTools)
+
+## UI
 
 - **[web-vue-election]** [paNote](https://github.com/ActivePeter/paNote) Mesh structure note software, supporting Anki regular review.
 
   ![image.png](https://s2.loli.net/2022/08/27/nlwMxopbr3IgRsz.png)
+
+## Game
 
 - **[game-cpp]** [paecs](https://github.com/ActivePeter/paecs) Simple implementation of ECS game model. 
 
@@ -44,6 +54,8 @@
   [VoxelFrame_UE4: currently developing with ue4](https://github.com/ActivePeter/VoxelFrame_UE4) make my own minecraft！
 
   ![](https://s3.bmp.ovh/imgs/2023/01/31/a59bdd4316c5df7e.png)
+
+## Emmbed
 
 - **[emmbed-mcu_hal]** [paMcuLib](https://github.com/ActivePeter/paMcuLib) My commonLib for MCUs. 
 
