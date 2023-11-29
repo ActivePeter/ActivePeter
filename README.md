@@ -13,25 +13,23 @@
 
 ![](https://wakatime.com/share/@be5a5457-47be-4fd1-8f04-df2f86d0510c/900272d0-a757-4764-898d-c425ab4f7547.svg)  
 
-## Infra - Distributed
+## Distributed
 
 - **[wasm_serverless]**
   
 - **[distribution-study]** [mit 6.824](https://github.com/ActivePeter/mit_6.824_learning) 分布式课程 
 
-## Infra - Local
-
-### DB
+## DB
 
 - **[rustkvdb-study]** [pakv_talentplan](https://github.com/ActivePeter/pakv_talentplan) A rust kvdb implementation lab. 
 
 - **[db-study]** [learn_cmu15_445](https://github.com/ActivePeter/learn_cmu15_445) cmu 15 445数据库课程 lab
   
-### Data structure
+## Data structure
 
 - **[rust-competition]** [rust_concurr_skiplist](https://github.com/ActivePeter/rust_hackathon_kv) rust hackthon 达坦科技并发kv赛道。growonly，lockfree 并发skiplist实现
 
-### System
+## System
 
 - **[sys-study]** [mit 6.s081](https://github.com/ActivePeter/learn_mit_s6.081) 操作系统课程 
 
