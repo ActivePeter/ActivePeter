@@ -6,6 +6,8 @@
 
 - **languages**：**c/cpp, rust**, go, ts
 
+- Focusing on distributed systems, serverless, and interested in all content related to internships
+
 ## Some contacts & links
 - **qq** 1020401660
 - **github** [https://github.com/ActivePeter](https://github.com/ActivePeter)
