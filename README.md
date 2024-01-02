@@ -2,11 +2,11 @@
 
 - Donghua university CS graduate student, working on serverless related (scaler, scheduler, cache), [serverless_research, simulate frame & algorithms](https://github.com/ActivePeter/serverless_research).
 
-- Internships： [Datenlord, dist fs](https://github.com/datenlord)
+- **Internships**： [Datenlord, dist fs](https://github.com/datenlord)
 
-- **languages**：**c/cpp, rust**, go, ts
+- **Languages**：**c/cpp, rust**, go, ts
 
-- Focusing on distributed systems, serverless, and interested in all content related to internships
+- **Focusing**: distributed systems, serverless, all content related to internships
 
 ## Some contacts & links
 - **qq** 1020401660
@@ -14,6 +14,8 @@
 - **bilibili** [**pa汉堡**][1]
 
 ## Distributed
+
+- **[research-competition]** [perf_cache](https://github.com/ActivePeter/Hackathon-2023/tree/master/baibaidui) A distributed file block cache solution with cache router
 
 - **[research-(planning paper)]** [wasm_serverless](https://github.com/ActivePeter/wasm_serverless) A serverless distributed system with WASM, DataEvnetDrivenGraph, Integrated storage
   
