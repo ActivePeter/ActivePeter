@@ -1,6 +1,6 @@
 ## 我是汉堡（pa）！
 
-- Donghua university CS graduate student, working on serverless related (scaler, scheduler, cache), [serverless_research, simulate frame & algorithms](https://github.com/ActivePeter/serverless_research).
+- A master's student researching the optimization of Serverless systems[serverless_research, simulate frame & algorithms](https://github.com/ActivePeter/serverless_research).
 
 - **Internships**： [Datenlord, dist fs](https://github.com/datenlord)
 
