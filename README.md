@@ -65,11 +65,6 @@
 
   ![image.png](https://s2.loli.net/2022/08/27/zHK19ROntTIBuib.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ActivePeter)
-
-
-![](https://wakatime.com/share/@be5a5457-47be-4fd1-8f04-df2f86d0510c/900272d0-a757-4764-898d-c425ab4f7547.svg)  
-
 ## Other Interests
 
 - 画画
