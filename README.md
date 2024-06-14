@@ -4,7 +4,7 @@
 
 - **Internships**： [AntGroup, serverless cold start optimization], [Datenlord, dist fs](https://github.com/datenlord)
 
-- **Languages**：**c/cpp, rust**, go, ts
+- **Languages**：**c/cpp, rust**, go, ts, python, java, c#
 
 - **Focusing**: distributed systems, serverless, all content related to internships
 
