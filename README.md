@@ -37,7 +37,7 @@
 
 ## Tool
 
-- [Some utils like scripts for different scene](https://github.com/ActivePeter/paTools)
+- [paTools: Some utils to make process automatic and simple, saved a lot of time for me](https://github.com/ActivePeter/paTools)
 
 ## UI
 
