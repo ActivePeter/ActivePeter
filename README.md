@@ -14,6 +14,7 @@
 ## Some contacts & links
 
 - **qq** 1020401660
+- **blog** [hanbaoaaa.xyz](http://hanbaoaaa.xyz)
 - **github** [https://github.com/ActivePeter](https://github.com/ActivePeter)
 - **bilibili** [**pa汉堡**][1]
 
