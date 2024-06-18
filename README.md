@@ -16,7 +16,7 @@
 - **github** [https://github.com/ActivePeter](https://github.com/ActivePeter)
 - **bilibili** [**pa汉堡**][1]
 
-## Distributed
+## Intern Related
 
 - **[research-competition]** [perf_cache](https://github.com/ActivePeter/Hackathon-2023/tree/master/baibaidui) A distributed file block cache solution with cache router
 
@@ -24,19 +24,15 @@
   
 - **[distribution-study]** [mit 6.824](https://github.com/ActivePeter/mit_6.824_learning) 分布式课程 
 
-## DB
-
 - **[rustkvdb-study]** [pakv_talentplan](https://github.com/ActivePeter/pakv_talentplan) A rust kvdb implementation lab. 
 
 - **[db-study]** [learn_cmu15_445](https://github.com/ActivePeter/learn_cmu15_445) cmu 15 445数据库课程 lab
-  
-## Data structure
 
 - **[rust-competition]** [rust_concurr_skiplist](https://github.com/ActivePeter/rust_hackathon_kv) rust hackthon 达坦科技并发kv赛道。growonly，lockfree 并发skiplist实现
 
-## System
-
-- **[sys-study]** [mit 6.s081](https://github.com/ActivePeter/learn_mit_s6.081) 操作系统课程 
+- **[sys-study]** [mit 6.s081](https://github.com/ActivePeter/learn_mit_s6.081) 操作系统课程
+  
+- **[game-cpp]** [paecs](https://github.com/ActivePeter/paecs) Simple implementation of ECS game model. 
 
 ## Tool
 
@@ -49,8 +45,6 @@
    <img src="https://s2.loli.net/2022/08/27/nlwMxopbr3IgRsz.png" width = "300" alt=""/>
 
 ## Game
-
-- **[game-cpp]** [paecs](https://github.com/ActivePeter/paecs) Simple implementation of ECS game model. 
 
 - **[game-ue|opengl|unity]** [VoxelFrame](https://github.com/ActivePeter/VoxelFrame)
 
