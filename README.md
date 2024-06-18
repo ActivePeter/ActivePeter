@@ -1,11 +1,12 @@
-## 我是汉堡（pa）！
+## Hi there 👋
+我是汉堡（pa）！
 
 - A master's student researching the optimization of Serverless systems.
 
 - **Internships**：
   
   - AntGroup, serverless cold start optimization
-  - [Datenlord, dist fs](https://github.com/datenlord)
+  - [Datenlord, distributed file system](https://github.com/datenlord)
 
 - **Languages**：**c/cpp, rust**, go, ts, python, java, c#
 
