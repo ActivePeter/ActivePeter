@@ -1,7 +1,7 @@
 ## Hi there 👋
 我是汉堡（pa）！
 
-- A master's student researching the optimization of Serverless systems.
+- A master's student researching the optimization of Serverless systems at DHU. [https://github.com/340Lab](https://github.com/340Lab)
 
 - **Internships**：
   
