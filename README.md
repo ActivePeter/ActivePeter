@@ -5,6 +5,7 @@
 
 - **Internships**：
   
+  - TeleAI, AI infra 
   - AntGroup, serverless cold start optimization
   - [Datenlord, distributed file system](https://github.com/datenlord)
 
