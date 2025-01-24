@@ -21,6 +21,8 @@
 
 ## Infra Related
 
+- **[tool]** [telego](https://github.com/AI-Infra-Team/telego) All in one multi-cluster config manager & quick config & offline installer & devops deployer & access control
+
 - **[research-competition]** [perf_cache](https://github.com/ActivePeter/Hackathon-2023/tree/master/baibaidui) A distributed file block cache solution with cache router
 
 - **[research-(planning paper)]** [wasm_serverless](https://github.com/ActivePeter/wasm_serverless) A serverless distributed system with WASM, DataEvnetDrivenGraph, Integrated storage
@@ -36,10 +38,6 @@
 - **[sys-study]** [mit 6.s081](https://github.com/ActivePeter/learn_mit_s6.081) 操作系统课程
   
 - **[game-cpp]** [paecs](https://github.com/ActivePeter/paecs) Simple implementation of ECS game model. 
-
-## Tool
-
-- [paTools: Some utils to make process automatic and simple, saved a lot of time for me](https://github.com/ActivePeter/paTools)
 
 ## UI
 
