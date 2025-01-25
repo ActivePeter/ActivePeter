@@ -19,6 +19,10 @@
 - **github** [https://github.com/ActivePeter](https://github.com/ActivePeter)
 - **bilibili** [**pa汉堡**][1]
 
+## Blogs
+
+- 分发与枚举 [wx](https://mp.weixin.qq.com/s/CmGH3agZD-nkLKW3oUNqbA) [feishu](https://qcnoe3hd7k5c.feishu.cn/wiki/RZC9wrGHDiJn9xk914ec0nGwnJh)
+
 ## Infra Related
 
 - **[tool]** [telego](https://github.com/AI-Infra-Team/telego) All in one multi-cluster config manager & quick config & offline installer & devops deployer & access control
