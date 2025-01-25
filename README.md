@@ -15,7 +15,8 @@
 ## Some contacts & links
 
 - **qq** 1020401660
-- **blog** [hanbaoaaa.xyz](http://hanbaoaaa.xyz)
+- **blog** [
+hanbaoaaa.xyz](http://hanbaoaaa.xyz)
 - **github** [https://github.com/ActivePeter](https://github.com/ActivePeter)
 - **bilibili** [**pa汉堡**][1]
 
@@ -35,7 +36,9 @@
 - Rust在同步函数中调用异步函数 [wx](https://mp.weixin.qq.com/s/ks6yMAPDAzAbLez7g1s2eQ?token=543532506&lang=zh_CN)
 - Rust 并发跳表实现 [wx](https://mp.weixin.qq.com/s/Qyz7_iWb7isGWkf-LHtoHQ?token=543532506&lang=zh_CN)
 
-## Infra Related
+## Other Projects
+
+### Infra Related
 
 
 
@@ -53,13 +56,13 @@
   
 - **[game-cpp]** [paecs](https://github.com/ActivePeter/paecs) Simple implementation of ECS game model. 
 
-## UI
+### UI
 
 - **[web-vue-election]** [paNote](https://github.com/ActivePeter/paNote) Mesh structure note software, supporting Anki regular review.
   
    <img src="https://s2.loli.net/2022/08/27/nlwMxopbr3IgRsz.png" width = "300" alt=""/>
 
-## Game
+### Game
 
 - **[game-ue|opengl|unity]** [VoxelFrame](https://github.com/ActivePeter/VoxelFrame)
 
@@ -67,7 +70,7 @@
 
   <img src="https://s3.bmp.ovh/imgs/2023/01/31/a59bdd4316c5df7e.png" width = "300" alt=""/>
 
-## Emmbed
+### Emmbed
 
 - **[emmbed-mcu_hal]** [paMcuLib](https://github.com/ActivePeter/paMcuLib) My commonLib for MCUs. 
 
