@@ -19,18 +19,28 @@
 - **github** [https://github.com/ActivePeter](https://github.com/ActivePeter)
 - **bilibili** [**pa汉堡**][1]
 
+## Main Projects
+
+- **[tool]** [telego](https://github.com/AI-Infra-Team/telego) All in one multi-cluster config manager & quick config & offline installer & devops deployer & access control
+- **[research-(planning paper)]** [wasm_serverless](https://github.com/ActivePeter/wasm_serverless) A serverless distributed system with WASM, DataEvnetDrivenGraph, Integrated storage
+
 ## Blogs
 
-- 分发与枚举 [wx](https://mp.weixin.qq.com/s/CmGH3agZD-nkLKW3oUNqbA) [feishu](https://qcnoe3hd7k5c.feishu.cn/wiki/RZC9wrGHDiJn9xk914ec0nGwnJh)
+- 分发与枚举（rust vs go） [wx](https://mp.weixin.qq.com/s/CmGH3agZD-nkLKW3oUNqbA) [feishu](https://qcnoe3hd7k5c.feishu.cn/wiki/RZC9wrGHDiJn9xk914ec0nGwnJh)
+- [serverless_bench_plus] OpenWhisk 函数调用超时 debug 记录 [wx](https://mp.weixin.qq.com/s/prZ4DfMca7oBOfPxaZoyVA?token=543532506&lang=zh_CN)
+- Overleaf ACM模板格式调整（双盲，引用顺序，页号）[wx](https://mp.weixin.qq.com/s/e9NNna7sGnFX-4Og8BKVYA?token=543532506&lang=zh_CN)
+- Java项目使用源码编译的依赖库实践记录 [wx](https://mp.weixin.qq.com/s/Tcos4su9NF3sEp9F9R6JMQ?token=543532506&lang=zh_CN)
+- K8S 【可备份】【容器开发环境】搭建 [wx](https://mp.weixin.qq.com/s/qCRYvz3uhlFJWGPGb6kyng?token=543532506&lang=zh_CN)
+- 复盘【堆】以及【堆排序】[wx](https://mp.weixin.qq.com/s/AHob3MoUDxvFpozgZ-h8fg?token=543532506&lang=zh_CN)
+- Rust在同步函数中调用异步函数 [wx](https://mp.weixin.qq.com/s/ks6yMAPDAzAbLez7g1s2eQ?token=543532506&lang=zh_CN)
+- Rust 并发跳表实现 [wx](https://mp.weixin.qq.com/s/Qyz7_iWb7isGWkf-LHtoHQ?token=543532506&lang=zh_CN)
 
 ## Infra Related
 
-- **[tool]** [telego](https://github.com/AI-Infra-Team/telego) All in one multi-cluster config manager & quick config & offline installer & devops deployer & access control
+
 
 - **[research-competition]** [perf_cache](https://github.com/ActivePeter/Hackathon-2023/tree/master/baibaidui) A distributed file block cache solution with cache router
 
-- **[research-(planning paper)]** [wasm_serverless](https://github.com/ActivePeter/wasm_serverless) A serverless distributed system with WASM, DataEvnetDrivenGraph, Integrated storage
-  
 - **[distribution-study]** [mit 6.824](https://github.com/ActivePeter/mit_6.824_learning) 分布式课程 
 
 - **[rustkvdb-study]** [pakv_talentplan](https://github.com/ActivePeter/pakv_talentplan) A rust kvdb implementation lab. 
