@@ -1,5 +1,5 @@
 ## Hi there 👋
-我是 汉堡 | pa | hanbaoaaa | 钟弋辰
+我是 hanbaoaaa | pa | 钟弋辰
 
 - A master's student researching the optimization of Serverless systems at DHU. [https://github.com/340Lab](https://github.com/340Lab)
 
@@ -17,6 +17,7 @@
 - **qq** 1020401660
 - **github** [https://github.com/ActivePeter](https://github.com/ActivePeter)
 - **bilibili** [**pa汉堡**][1]
+- **微信公众号** **pa汉堡**
 
 ## Main Projects
 
