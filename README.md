@@ -18,6 +18,7 @@
 - **github** [https://github.com/ActivePeter](https://github.com/ActivePeter)
 - **bilibili** [**pa汉堡**][1]
 - **微信公众号** **pa汉堡**
+- **CSDN(archived)** [https://blog.csdn.net/zhong1213?spm=1000.2115.3001.5343](https://blog.csdn.net/zhong1213?spm=1000.2115.3001.5343)
 
 ## Main Projects
 
