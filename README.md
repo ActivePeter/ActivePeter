@@ -3,7 +3,6 @@
 
 - A master's student researching the optimization of Serverless systems at DHU. [https://github.com/340Lab](https://github.com/340Lab)
 - **Internships**：
-  
   - TeleAI, AI infra 
   - AntGroup, serverless cold start optimization
   - [Datenlord, distributed file system](https://github.com/datenlord)
