@@ -24,6 +24,7 @@
 
 ## Blogs
 
+- async get_or_insert_with conncurrent map 封装（基于dashmap） [feishu](https://fvd360f8oos.feishu.cn/wiki/To6hwuctEikIxzkUnrfcdyEIngP)
 - 分发与枚举（rust vs go） [wx](https://mp.weixin.qq.com/s/CmGH3agZD-nkLKW3oUNqbA) [feishu](https://qcnoe3hd7k5c.feishu.cn/wiki/RZC9wrGHDiJn9xk914ec0nGwnJh)
 - [serverless_bench_plus] OpenWhisk 函数调用超时 debug 记录 [wx](https://mp.weixin.qq.com/s/prZ4DfMca7oBOfPxaZoyVA?token=543532506&lang=zh_CN) [feishu](https://fvd360f8oos.feishu.cn/wiki/DbQewUtZbikDodk1vvMcPJeAn5g)
 - Overleaf ACM模板格式调整（双盲，引用顺序，页号）[wx](https://mp.weixin.qq.com/s/e9NNna7sGnFX-4Og8BKVYA?token=543532506&lang=zh_CN)
