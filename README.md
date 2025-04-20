@@ -24,6 +24,7 @@
 
 ## Blogs
 
+- 约定优于配置：以 Telego 运维场景为例 [feishu](https://qcnoe3hd7k5c.feishu.cn/wiki/LJOuwImh5i3g88ksBS3cbskznoh) [bilibili](https://www.bilibili.com/opus/1057874398052089861?spm_id_from=333.1387.top_right_bar_window_dynamic.content.click)
 - Rust async get_or_insert_with conncurrent map 封装（基于dashmap）[zhihu](https://zhuanlan.zhihu.com/p/23033416677) [feishu](https://fvd360f8oos.feishu.cn/wiki/To6hwuctEikIxzkUnrfcdyEIngP) [wx](https://mp.weixin.qq.com/s/zo999dQJdWX573QlpuGD3Q?token=1488382990&lang=zh_CN)
 - 分发与枚举（rust vs go） [wx](https://mp.weixin.qq.com/s/CmGH3agZD-nkLKW3oUNqbA) [feishu](https://qcnoe3hd7k5c.feishu.cn/wiki/RZC9wrGHDiJn9xk914ec0nGwnJh)
 - [serverless_bench_plus] OpenWhisk 函数调用超时 debug 记录 [wx](https://mp.weixin.qq.com/s/prZ4DfMca7oBOfPxaZoyVA?token=543532506&lang=zh_CN) [feishu](https://fvd360f8oos.feishu.cn/wiki/DbQewUtZbikDodk1vvMcPJeAn5g)
