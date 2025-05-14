@@ -34,6 +34,7 @@
 - 复盘【堆】以及【堆排序】[wx](https://mp.weixin.qq.com/s/AHob3MoUDxvFpozgZ-h8fg?token=543532506&lang=zh_CN)
 - Rust在同步函数中调用异步函数 [wx](https://mp.weixin.qq.com/s/ks6yMAPDAzAbLez7g1s2eQ?token=543532506&lang=zh_CN)
 - Rust 并发跳表实现 [wx](https://mp.weixin.qq.com/s/Qyz7_iWb7isGWkf-LHtoHQ?token=543532506&lang=zh_CN)
+- Rust 项目的全局数据结构管理设计 [wx](https://mp.weixin.qq.com/s/kUT8c6aXI5jgQu2WRPiztw)
 
 ## Other Projects
 
