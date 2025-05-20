@@ -34,7 +34,7 @@ My expertise lies in distributed systems, serverless computing, and infrastructu
 ## Projects
 
 ### Infrastructure and Distributed Systems
-- **2025**: [wasm_serverless](https://github.com/ActivePeter/wasm_serverless)  
+- **2024**: [wasm_serverless](https://github.com/ActivePeter/wasm_serverless)  
   A serverless distributed system leveraging WebAssembly, data-driven event graphs, and integrated storage (research, paper in planning).  
 - **2024**: [telego](https://github.com/AI-Infra-Team/telego)  
   An all-in-one multi-cluster configuration manager, supporting quick configuration, offline installation, DevOps deployment, and access control.  
@@ -44,7 +44,8 @@ My expertise lies in distributed systems, serverless computing, and infrastructu
   A grow-only, lock-free concurrent skip list implementation in Rust for a hackathon key-value store competition.  
 - **2022**: [mit_6.824_learning](https://github.com/ActivePeter/mit_6.824_learning)  
   Implementation and study of MIT 6.824 distributed systems course labs.  
-- **2022**: [pakv_talentplan](https://github.com/ActivePeter/pakv_talentplan)  
+- **2022**: [
+pakv_talentplan](https://github.com/ActivePeter/pakv_talentplan)  
   A Rust-based key-value database implementation for learning distributed storage systems.  
 - **2021**: [learn_cmu15_445](https://github.com/ActivePeter/learn_cmu15_445)  
   Labs from CMU 15-445 database course, focusing on database system internals.  
