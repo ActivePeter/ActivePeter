@@ -7,6 +7,10 @@ My expertise lies in distributed systems, serverless computing, and infrastructu
 - Work with the infrastructure team at TeleAI (data storage/cache, devops)
 - Master's student at Donghua University (DHU), specializing in the optimization of serverless systems.
 
+<img src="https://wakatime.com/share/@be5a5457-47be-4fd1-8f04-df2f86d0510c/af194499-77b1-4517-b013-b5752c94c5b6.svg"  width="720" alt="WakaTime Report" /><img src="https://wakatime.com/share/@be5a5457-47be-4fd1-8f04-df2f86d0510c/d75a5263-0173-4d4a-95f5-758920a8c0b2.svg"  width="720" alt="WakaTime Coding Activity" />
+
+
+
 ## Blogs
 
 - [Rust in Synchronous Functions Calling Asynchronous Functions](https://mp.weixin.qq.com/s/ks6yMAPDAzAbLez7g1s2eQ)  
@@ -15,7 +19,8 @@ My expertise lies in distributed systems, serverless computing, and infrastructu
 
 - [Global Data Structure Management Design in Rust Projects](https://mp.weixin.qq.com/s/kUT8c6aXI5jgQu2WRPiztw)  
 
-- [Convention Over Configuration: A DevOps Case Study with Telego](https://qcnoe3hd7k5c.feishu.cn/wiki/LJOuwImh5i3g88ksBS3cbskznoh) | [Bilibili](https://www.bilibili.com/opus/1057874398052089861)  
+- [
+Convention Over Configuration: A DevOps Case Study with Telego](https://qcnoe3hd7k5c.feishu.cn/wiki/LJOuwImh5i3g88ksBS3cbskznoh) | [Bilibili](https://www.bilibili.com/opus/1057874398052089861)  
 
 - [Rust Async get_or_insert_with Concurrent Map Encapsulation (Dashmap-based)](https://zhuanlan.zhihu.com/p/23033416677) | [Feishu](https://fvd360f8oos.feishu.cn/wiki/To6hwuctEikIxzkUnrfcdyEIngP) | [WeChat](https://mp.weixin.qq.com/s/zo999dQJdWX573QlpuGD3Q)  
 
