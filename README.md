@@ -13,6 +13,8 @@ My expertise lies in distributed systems, serverless computing, and infrastructu
 
 ## Blogs
 
+- 示例：使用telego k8s服务部署能力内网部署Openwhisk [feishu](https://qcnoe3hd7k5c.feishu.cn/wiki/RvQpwuAWeiPzIck6PuDcUsDbnEd)
+
 - [Rust in Synchronous Functions Calling Asynchronous Functions](https://mp.weixin.qq.com/s/ks6yMAPDAzAbLez7g1s2eQ)  
 
 - [Rust Concurrent Skip List Implementation](https://mp.weixin.qq.com/s/Qyz7_iWb7isGWkf-LHtoHQ)  
