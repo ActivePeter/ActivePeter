@@ -2,7 +2,8 @@ Yichen Zhong (hanbaoaaa | pa)
 
 ## About Me
 I like coding.
-My expertise lies in distributed systems, serverless computing, and infrastructure development.
+
+Tags: [提效工具、自动化、标准化、性能测试、性能优化、系统构建、存储缓存、ai infra、集群、云原生]
 
 - Work with the infrastructure team at TeleAI (data storage/cache, devops)
 - Master's student at Donghua University (DHU), specializing in the optimization of serverless systems.
@@ -43,7 +44,8 @@ Convention Over Configuration: A DevOps Case Study with Telego](https://qcnoe3hd
 ### Infrastructure and Distributed Systems
 - **2024**: [wasm_serverless](https://github.com/ActivePeter/wasm_serverless)  
   A serverless distributed system leveraging WebAssembly, data-driven event graphs, and integrated storage (research, paper in planning).  
-- **2024**: [telego](https://github.com/AI-Infra-Team/telego)  
+- **2024**: [telego
+](https://github.com/AI-Infra-Team/telego)  
   An all-in-one multi-cluster configuration manager, supporting quick configuration, offline installation, DevOps deployment, and access control.  
 - **2023**: [perf_cache](https://github.com/ActivePeter/Hackathon-2023/tree/master/baibaidui)  
   A distributed file block cache solution with a cache router, developed for a research competition.  
