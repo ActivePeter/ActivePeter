@@ -3,7 +3,7 @@ Yichen Zhong (hanbaoaaa | pa)
 ## About Me
 I like coding.
 
-Care about: [Efficiency Improvement、Automation、Standardization、Performance Testing、Performance Optimization、System Building、Storage Caching、AI Infrastructure、Cluster、Cloud Native]
+Care about: [Efficiency Improvement、Automation、Standardization、Performance Testing、Performance Optimization、System Building、Storage / Caching、AI Infrastructure、Cluster、Cloud Native]
 
 - Work with the infrastructure team at TeleAI (data storage/cache, devops)
 - Master's student at Donghua University (DHU), specializing in the optimization of serverless systems.
