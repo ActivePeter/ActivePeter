@@ -6,13 +6,8 @@ I like coding.
 Care about: [Efficiency Improvement、Automation、Standardization、Performance Testing、Performance Optimization、System Building、Storage / Caching、AI Infrastructure、Cluster、Cloud Native]
 
 - Looking for interns who are passionate about AI distributed systems and performance optimization
-- Work with the infrastructure team at TeleAI (data storage/cache, devops)
+- Work with the infrastructure team at TeleAI (distributed communication/cache/computing)
 - Master's student at Donghua University (DHU), specializing in the optimization of serverless systems.
-
-| time 🕒                                           | languages 📊                                           |
-|----------------------------------------------------------|-----------------------------------------------------------|
-| <img src="https://wakatime.com/share/@be5a5457-47be-4fd1-8f04-df2f86d0510c/af194499-77b1-4517-b013-b5752c94c5b6.svg" width="360" /> | <img src="https://wakatime.com/share/@be5a5457-47be-4fd1-8f04-df2f86d0510c/d75a5263-0173-4d4a-95f5-758920a8c0b2.svg" width="360" /> |
-
 
 
 
