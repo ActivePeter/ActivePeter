@@ -41,6 +41,8 @@ Convention Over Configuration: A DevOps Case Study with Telego](https://qcnoe3hd
 ## Projects
 
 ### Infrastructure and Distributed Systems
+- **2026**: [Fluxon](https://github.com/Tele-AI/Fluxon)
+  A distributed high-performance Rust-based communication and caching substrate for world models and other AI-native training and inference systems, providing unified RPC, Key-Value, Message Queue, and File System Caching interfaces.
 - **2024**: [wasm_serverless](https://github.com/ActivePeter/wasm_serverless)  
   A serverless distributed system leveraging WebAssembly, data-driven event graphs, and integrated storage (research, paper in planning).  
 - **2024**: [telego
