@@ -9,35 +9,6 @@ Care about: [Efficiency Improvement、Automation、Standardization、Performance
 - Work with the infrastructure team at TeleAI (distributed communication/cache/computing)
 - Master's student at Donghua University (DHU), specializing in the optimization of serverless systems.
 
-
-
-## Blogs
-
-- 示例：使用telego k8s服务部署能力内网部署Openwhisk [feishu](https://qcnoe3hd7k5c.feishu.cn/wiki/RvQpwuAWeiPzIck6PuDcUsDbnEd)
-
-- [Rust in Synchronous Functions Calling Asynchronous Functions](https://mp.weixin.qq.com/s/ks6yMAPDAzAbLez7g1s2eQ)  
-
-- [Rust Concurrent Skip List Implementation](https://mp.weixin.qq.com/s/Qyz7_iWb7isGWkf-LHtoHQ)  
-
-- [Global Data Structure Management Design in Rust Projects](https://mp.weixin.qq.com/s/kUT8c6aXI5jgQu2WRPiztw)  
-
-- [
-Convention Over Configuration: A DevOps Case Study with Telego](https://qcnoe3hd7k5c.feishu.cn/wiki/LJOuwImh5i3g88ksBS3cbskznoh) | [Bilibili](https://www.bilibili.com/opus/1057874398052089861)  
-
-- [Rust Async get_or_insert_with Concurrent Map Encapsulation (Dashmap-based)](https://zhuanlan.zhihu.com/p/23033416677) | [Feishu](https://fvd360f8oos.feishu.cn/wiki/To6hwuctEikIxzkUnrfcdyEIngP) | [WeChat](https://mp.weixin.qq.com/s/zo999dQJdWX573QlpuGD3Q)  
-
-- [Distribution and Enumeration: Rust vs. Go](https://mp.weixin.qq.com/s/CmGH3agZD-nkLKW3oUNqbA) | [Feishu](https://qcnoe3hd7k5c.feishu.cn/wiki/RZC9wrGHDiJn9xk914ec0nGwnJh)  
-
-- [Serverless Bench Plus: Debugging OpenWhisk Function Call Timeouts](https://mp.weixin.qq.com/s/prZ4DfMca7oBOfPxaZoyVA) | [Feishu](https://fvd360f8oos.feishu.cn/wiki/DbQewUtZbikDodk1vvMcPJeAn5g)  
-
-- [Kubernetes: Setting Up a Backup-Capable Container Development Environment](https://mp.weixin.qq.com/s/qCRYvz3uhlFJWGPGb6kyng)  
-
-- [Java Project Dependency Compilation from Source](https://mp.weixin.qq.com/s/Tcos4su9NF3sEp9F9R6JMQ)  
-
-- [Overleaf ACM Template Adjustments (Double-Blind, Citation Order, Page Numbers)](https://mp.weixin.qq.com/s/e9NNna7sGnFX-4Og8BKVYA)  
-
-- [Revisiting Heaps and Heap Sort](https://mp.weixin.qq.com/s/AHob3MoUDxvFpozgZ-h8fg)  
-
 ## Projects
 
 ### Infrastructure and Distributed Systems
@@ -84,3 +55,31 @@ pakv_talentplan](https://github.com/ActivePeter/pakv_talentplan)
   A common library for microcontroller development, supporting embedded system projects.  
 - **2020**: [2020_TI_competion_question_A](https://github.com/ActivePeter/2020_TI_competion_question_A)  
   Codebase for the 2020 TI Competition (Question A), focusing on ESP32-based embedded solutions.
+
+
+## Blogs
+
+- 示例：使用telego k8s服务部署能力内网部署Openwhisk [feishu](https://qcnoe3hd7k5c.feishu.cn/wiki/RvQpwuAWeiPzIck6PuDcUsDbnEd)
+
+- [Rust in Synchronous Functions Calling Asynchronous Functions](https://mp.weixin.qq.com/s/ks6yMAPDAzAbLez7g1s2eQ)  
+
+- [Rust Concurrent Skip List Implementation](https://mp.weixin.qq.com/s/Qyz7_iWb7isGWkf-LHtoHQ)  
+
+- [Global Data Structure Management Design in Rust Projects](https://mp.weixin.qq.com/s/kUT8c6aXI5jgQu2WRPiztw)  
+
+- [
+Convention Over Configuration: A DevOps Case Study with Telego](https://qcnoe3hd7k5c.feishu.cn/wiki/LJOuwImh5i3g88ksBS3cbskznoh) | [Bilibili](https://www.bilibili.com/opus/1057874398052089861)  
+
+- [Rust Async get_or_insert_with Concurrent Map Encapsulation (Dashmap-based)](https://zhuanlan.zhihu.com/p/23033416677) | [Feishu](https://fvd360f8oos.feishu.cn/wiki/To6hwuctEikIxzkUnrfcdyEIngP) | [WeChat](https://mp.weixin.qq.com/s/zo999dQJdWX573QlpuGD3Q)  
+
+- [Distribution and Enumeration: Rust vs. Go](https://mp.weixin.qq.com/s/CmGH3agZD-nkLKW3oUNqbA) | [Feishu](https://qcnoe3hd7k5c.feishu.cn/wiki/RZC9wrGHDiJn9xk914ec0nGwnJh)  
+
+- [Serverless Bench Plus: Debugging OpenWhisk Function Call Timeouts](https://mp.weixin.qq.com/s/prZ4DfMca7oBOfPxaZoyVA) | [Feishu](https://fvd360f8oos.feishu.cn/wiki/DbQewUtZbikDodk1vvMcPJeAn5g)  
+
+- [Kubernetes: Setting Up a Backup-Capable Container Development Environment](https://mp.weixin.qq.com/s/qCRYvz3uhlFJWGPGb6kyng)  
+
+- [Java Project Dependency Compilation from Source](https://mp.weixin.qq.com/s/Tcos4su9NF3sEp9F9R6JMQ)  
+
+- [Overleaf ACM Template Adjustments (Double-Blind, Citation Order, Page Numbers)](https://mp.weixin.qq.com/s/e9NNna7sGnFX-4Og8BKVYA)  
+
+- [Revisiting Heaps and Heap Sort](https://mp.weixin.qq.com/s/AHob3MoUDxvFpozgZ-h8fg)  
