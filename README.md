@@ -7,7 +7,6 @@ Care about: [Efficiency Improvement、Automation、Standardization、Performance
 
 - Looking for interns who are passionate about AI distributed systems and performance optimization
 - Work with the infrastructure team at TeleAI (distributed communication/cache/computing)
-- Master's student at Donghua University (DHU), specializing in the optimization of serverless systems.
 
 ## Projects
 
