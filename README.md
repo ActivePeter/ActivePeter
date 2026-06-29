@@ -13,6 +13,8 @@ Care about: [Efficiency Improvement、Automation、Standardization、Performance
 ### Infrastructure and Distributed Systems
 - **2026**: [Fluxon](https://github.com/Tele-AI/Fluxon)   
   Fluxon is a distributed substrate for communication and caching in AI-native systems. Built in Rust, it provides a unified foundation for RPC, key-value caching, message queues, and S3-compatible file and object caching.
+  
+  <img src="https://github.com/Tele-AI/Fluxon/raw/main/pics/post_en.png" width="600" alt="VoxelFrame_UE4 Screenshot"/>  
 - **2024**: [wasm_serverless](https://github.com/ActivePeter/wasm_serverless)  
   A serverless distributed system leveraging WebAssembly, data-driven event graphs, and integrated storage (research, paper in planning).  
 - **2024**: [telego
