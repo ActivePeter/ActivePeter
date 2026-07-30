@@ -6,7 +6,7 @@ I like coding.
 Care about: [Efficiency Improvement、Automation、Standardization、Performance Testing、Performance Optimization、System Building、Storage / Caching、AI Infrastructure、Cluster、Cloud Native]
 
 - Looking for interns who are passionate about AI distributed systems and performance optimization
-- Work with the infrastructure team at TeleAI (distributed communication/cache/computing)
+- Work with the infrastructure team at TeleAI (distributed communication/cache/computing for inference/training/data processing in ai scenarios)
 
 ## Projects
 
