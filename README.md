@@ -16,7 +16,7 @@ Care about: [Efficiency Improvement、Automation、Standardization、Performance
   
   <img src="https://github.com/Tele-AI/Fluxon/raw/main/pics/post_en.png" width="400" alt="VoxelFrame_UE4 Screenshot"/>  
 
-- **2026**: [vibe_vscode](https://github.com/ActivePeter/vibe-vscode)
+- **2026**: [vibe_vscode](https://github.com/ActivePeter/vibe-vscode) 
   A custom VS Code distribution engineered for seamless vibe coding across projects and devices.
 
 - **2024**: [wasm_serverless](https://github.com/ActivePeter/wasm_serverless)  
