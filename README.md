@@ -15,6 +15,10 @@ Care about: [Efficiency Improvement、Automation、Standardization、Performance
   An AI-native distributed data plane built in Rust that supports high performance RPC, KV Cache, Message Queue, and File & Object Acceleration.
   
   <img src="https://github.com/Tele-AI/Fluxon/raw/main/pics/post_en.png" width="600" alt="VoxelFrame_UE4 Screenshot"/>  
+
+- **2026**: [vibe_vscode](https://github.com/ActivePeter/vibe-vscode)
+  A custom VS Code distribution engineered for seamless vibe coding across projects and devices.
+
 - **2024**: [wasm_serverless](https://github.com/ActivePeter/wasm_serverless)  
   A serverless distributed system leveraging WebAssembly, data-driven event graphs, and integrated storage (research, paper in planning).  
 - **2024**: [telego
