@@ -64,6 +64,18 @@ pakv_talentplan](https://github.com/ActivePeter/pakv_talentplan)
 
 ## Blogs
 
+- [Skill和普通文档有什么区别：从 Codex 源码看 skill 的作用](https://zhuanlan.zhihu.com/p/2075360627430896913)
+
+- [​LLM推理调度漫游：局部性与负载均衡的权衡关系](https://zhuanlan.zhihu.com/p/2070197602965050628)
+
+- [​仅需一个脚本就能将目录转s3 服务，FluxonFS vs Alluxio 5x吞吐](https://zhuanlan.zhihu.com/p/2069474802478454230)
+
+- ​[单机最高Mooncake 6x 吞吐：让 Fluxon KV 支持 DRAM + SSD 多级缓存 - 知乎](https://zhuanlan.zhihu.com/p/2060716360108397913)
+​​
+- [Fluxon KV 基础版解析：面向 AI 数据面的分层架构可扩展设计 - 知乎](https://zhuanlan.zhihu.com/p/2057107676367266274)
+​
+​- [全栈Rust实现，为 AI 数据流动而生：Fluxon 分布式键值缓存、RPC、消息队列与文件对象缓存加速层 - 知乎](https://zhuanlan.zhihu.com/p/2054332509052262216)
+
 - 示例：使用telego k8s服务部署能力内网部署Openwhisk [feishu](https://qcnoe3hd7k5c.feishu.cn/wiki/RvQpwuAWeiPzIck6PuDcUsDbnEd)
 
 - [Rust in Synchronous Functions Calling Asynchronous Functions](https://mp.weixin.qq.com/s/ks6yMAPDAzAbLez7g1s2eQ)  
