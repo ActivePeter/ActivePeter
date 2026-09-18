@@ -6,6 +6,7 @@ I like coding.
 Care about: [Efficiency Improvement、Automation、Standardization、Performance Testing、Performance Optimization、System Building、Storage / Caching、AI Infrastructure、Cluster、Cloud Native]
 
 - Working at Goodput AI, focusing on KVCache \ Inference \ MaaS.
+- Looking for collaborators who are passionate about large scale inference optimization and distributed systems.
 
 ## Projects
 
