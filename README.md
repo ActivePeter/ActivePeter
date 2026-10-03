@@ -1,7 +1,10 @@
 Yichen Zhong (hanbaoaaa | pa)
 
 ## About Me
+
 I like coding.
+
+blog：https://activepeter.github.io/
 
 Care about: [Efficiency Improvement、Automation、Standardization、Performance Testing、Performance Optimization、System Building、Storage / Caching、AI Infrastructure、Cluster、Cloud Native]
 
