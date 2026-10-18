@@ -6,22 +6,17 @@ I like coding.
 
 site：https://activepeter.github.io/
 
-## Featured
-
-<a href="https://x-vibe.cn/chat-sheet"><img src="./assets/chatsheet-hero.jpg" alt="ChatSheet — Excel analysis in one sentence" width="100%"></a>
-
-**ChatSheet** — Excel analysis in one sentence. Upload a spreadsheet, describe the analysis, and get a new versioned sheet with charts. AI writes pandas code and runs it in an isolated sandbox. Built with Rust, axum, Polars, PostgreSQL and bwrap.
-
-- Live: [x-vibe.cn/chat-sheet](https://x-vibe.cn/chat-sheet)
-- Product page: [activepeter.github.io](https://activepeter.github.io/)
-
-
 Care about: [Efficiency Improvement、Automation、Standardization、Performance Testing、Performance Optimization、System Building、Storage / Caching、AI Infrastructure、Cluster、Cloud Native]
 
 - Working at Goodput AI, focusing on KVCache \ Inference \ MaaS.
 - Looking for collaborators who are passionate about large scale inference optimization and distributed systems.
 
 ## Projects
+
+- **2026**: [ChatSheet](https://x-vibe.cn/chat-sheet)  
+  AI spreadsheet analyst: natural language → pandas → isolated sandbox → versioned sheet + charts. Rust · axum · Polars · PostgreSQL.  
+  <img src="./assets/chatsheet-hero.jpg" width="600" alt="ChatSheet"/>
+
 
 ### Infrastructure and Distributed Systems
 - **2026**: [Fluxon](https://github.com/Tele-AI/Fluxon)   
@@ -65,8 +60,6 @@ pakv_talentplan](https://github.com/ActivePeter/pakv_talentplan)
   A simple Entity-Component-System (ECS) model implementation for game development in C++.
 
 ### Web and UI
-- **2026**: [ChatSheet](https://x-vibe.cn/chat-sheet)  
-  AI spreadsheet analyst: natural language → pandas → isolated sandbox → versioned sheet + charts. Rust · axum · Polars · PostgreSQL.
 - **2022**: [paNote](https://github.com/ActivePeter/paNote)  
   A mesh-structured note-taking application with Anki-style spaced repetition review support.  
   <img src="https://s2.loli.net/2022/08/27/nlwMxopbr3IgRsz.png" width="300" alt="paNote Screenshot"/>  
